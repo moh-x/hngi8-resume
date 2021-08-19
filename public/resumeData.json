@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Babatunde Xodeeq",
+    "occupation": "Software engineer and student",
+    "description": "I build solutions in form of softwares",
+    "image": "profile-photo.svg",
+    "bio": "Hey, I am Xodeeq! I have been writing computer programs for about {3} years now. I have sampled a lot of programming languages, but currently I work mainly with Python, Java and JavaScript. Lately, I just read books, try to build software solutions to as many problems and ideas that pop in my head, while studying to get a degree in Computer Science at one of the best online universities in the world. Oh, and I build cool clones with Sonny Sangha at #PAPAFAM.",
+    "contactmessage": "Hit me up if you have an interesting project to work on!",
+    "email": "xodeeq@yahoo.com",
+    "phone": "+234 8086246525",
+    "address": {
+      "street": "Akinola, Bariga",
+      "city": "Lagos",
+      "state": "Nigeria",
+      "zip": "100001"
+    },
+    "website": "https://moh-x.github.io/fcc-web-projects/project5.html",
+    "resumedownload": "https://gofile.io/d/SjToPn",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/mo_xodeeq",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/adenowo.babatunde",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/babatunde-adenowo",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mo_xodeeq/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/moh-x",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of the People - USA",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2023",
+        "description": "Currently studying"
+      },
+      {
+        "school": "Yaba College of Technology - Nigeria",
+        "degree": "Diploma, Mechatronics Engineering",
+        "graduated": "March 2020",
+        "description": "Graduated with Upper Credits"
+      }
+    ],
+    "work": [
+      {
+        "company": "Xal LLC",
+        "title": "Founder and CTO",
+        "years": "August 2021 - Present",
+        "description": "Creating simple solutions using software as the main tool."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Django",
+        "level": "85%"
+      },
+      {
+        "name": "React",
+        "level": "75%"
+      }
+    ],
+    "interests": [
+      {
+        "company_name": "HNG Internships",
+        "logo": "hngi8.png",
+        "website": "https://hng.tech/"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Airbnb Clone (React & Next JS)",
+        "category": "Fullstack Build",
+        "image": "airbnb-2.0.png",
+        "url": "https://airbnb-2-0-sandy.vercel.app/"
+      },
+      {
+        "title": "Amazon Clone (React & Next JS)",
+        "category": "Fullstack Build",
+        "image": "amazon-2.0.png",
+        "url": "https://amazon-2-0-ashen.vercel.app/"
+      },
+      {
+        "title": "Python Doc (HTML & CSS)",
+        "category": "Frontend Build",
+        "image": "doc-dark.png",
+        "url": "https://moh-x.github.io/fcc-web-projects/project4.html"
+      },
+      {
+        "title": "Learning Log (Django & Bootstrap)",
+        "category": "Fullstack Build",
+        "image": "the-log.png",
+        "url": "https://the-log.herokuapp.com/"
+      },
+      {
+        "title": "Netflix Clone (React & Redux)",
+        "category": "Frontend Build",
+        "image": "netflix-2.0.png",
+        "url": "https://netflix-02.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Babatunde is always on hand and willing to help when you reach out to him, especially when it's a software problem.",
+        "user": "Eromosele Iriogbe"
+      },
+      {
+        "text": "Babatunde always brings the good vibe to these live streams and the community, I see him helping others fix bugs on the facebook channel.",
+        "user": "Sonny Sangha aka Papa React"
+      }
+    ]
+  }
+}
